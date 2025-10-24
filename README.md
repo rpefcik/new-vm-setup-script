@@ -1,5 +1,5 @@
 ### How to use
-1. copy the script to your home directory
+1. copy the script (`vm_setup.sh`) to your home directory
 2. execute it by running the command
    ```bash   
    bash vm_setup.sh
